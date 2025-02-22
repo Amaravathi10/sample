@@ -1,0 +1,23 @@
+<section class="bloom-section">
+    <h2>పంట ఆధారంగా NPK</h2>
+    <form id="crop-form">
+        <label>పంట: <select name="crop" required>
+            {% for crop in crops %}<option value="{{ crop }}">{{ crop }}</option>{% endfor %}
+        </select></label><br>
+        <button type="submit">NPK చూడండి</button>
+    </form>
+    <div id="result"></div>
+</section>
+<script>
+    document.getElementById('crop-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const formData = new FormData(e.target);
+        const response = await fetch('/feature2', { method: 'POST', body: formData });
+        const data = await response.json();
+        document.getElementById('result').innerHTML = `
+            <p>పంట: ${data.crop}</p>
+            <p>N: సిఫార్సు: ${data.N.predicted.toFixed(2)}, కనిష్టం: ${data.N.min}, గరిష్టం: ${data.N.max}</p>
+            <p>P: సిఫార్సు: ${data.P.predicted.toFixed(2)}, కనిష్టం: ${data.P.min}, గరిష్టం: ${data.P.max}</p>
+            <p>K: సిఫార్సు: ${data.K.predicted.toFixed(2)}, కనిష్టం: ${data.K.min}, గరిష్టం: ${data.K.max}</p>`;
+    });
+</script>

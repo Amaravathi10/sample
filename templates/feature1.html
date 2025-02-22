@@ -1,0 +1,22 @@
+<section class="bloom-section">
+    <h2>NPK ఆధారంగా పంట సిఫార్సు</h2>
+    <form id="npk-form">
+        <label>N: <input type="number" name="n" required></label><br>
+        <label>P: <input type="number" name="p" required></label><br>
+        <label>K: <input type="number" name="k" required></label><br>
+        <button type="submit">సిఫార్సు చూడండి</button>
+    </form>
+    <div id="result"></div>
+</section>
+<script>
+    document.getElementById('npk-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const formData = new FormData(e.target);
+        const response = await fetch('/feature1', { method: 'POST', body: formData });
+        const data = await response.json();
+        document.getElementById('result').innerHTML = `
+            <p>సిఫార్సు చేసిన పంట: ${data.crop}</p>
+            <h3>ప్రత్యామ్నాయ పంటలు:</h3>
+            <ul>${data.similar_crops.map(c => `<li>${c.crop}: N: ${c.N_adj}, P: ${c.P_adj}, K: ${c.K_adj}</li>`).join('')}</ul>`;
+    });
+</script>

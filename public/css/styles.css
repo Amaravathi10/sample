@@ -1,0 +1,44 @@
+body {
+    font-family: 'Noto Sans Telugu', sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #2e7d32;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.bloom-section {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: all 1s ease-out;
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+.bloom-section.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+form label {
+    margin: 10px 0;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    nav a { display: block; margin: 10px 0; }
+    .bloom-section { margin: 10px; padding: 15px; }
+}

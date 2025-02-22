@@ -1,0 +1,25 @@
+<section class="bloom-section">
+    <h2>జిల్లా + సీజన్ సిఫార్సు</h2>
+    <form id="geo-form">
+        <label>జిల్లా: <input type="text" name="district" required></label><br>
+        <label>సీజన్ (ఐచ్ఛికం): <input type="text" name="season"></label><br>
+        <button type="submit">సిఫార్సు చూడండి</button>
+    </form>
+    <div id="result"></div>
+</section>
+<script>
+    document.getElementById('geo-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const formData = new FormData(e.target);
+        const response = await fetch('/feature4', { method: 'POST', body: formData });
+        const data = await response.json();
+        if (data.error) {
+            document.getElementById('result').innerHTML = `<p>${data.error}</p>`;
+        } else if (data.Recommendations) {
+            document.getElementById('result').innerHTML = `
+                <ul>${data.Recommendations.map(r => `<li>పంట: ${r.Crop}, రకం: ${r.Variety}</li>`).join('')}</ul>`;
+        } else {
+            document.getElementById('result').innerHTML = `<p>సిఫార్సు చేసిన పంట: ${data['Predicted Crop']}</p>`;
+        }
+    });
+</script>

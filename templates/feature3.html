@@ -1,0 +1,19 @@
+<section class="bloom-section">
+    <h2>పంట వ్యూహాలు</h2>
+    <form id="strategy-form">
+        <label>జిల్లా: <input type="text" name="district" required></label><br>
+        <label>ప్రాంతం (ఎకరాలు): <input type="number" name="area" required></label><br>
+        <button type="submit">వ్యూహాలు చూడండి</button>
+    </form>
+    <div id="result"></div>
+</section>
+<script>
+    document.getElementById('strategy-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const formData = new FormData(e.target);
+        const response = await fetch('/feature3', { method: 'POST', body: formData });
+        const data = await response.json();
+        document.getElementById('result').innerHTML = `
+            <ul>${data.recommendations.map(r => `<li>పంట: ${r.Name}, ప్రాంతం: ${r.Area.toFixed(2)} ఎకరాలు${r.Yield ? `, దిగుబడి: ${r.Yield} kg/ha` : ''}</li>`).join('')}</ul>`;
+    });
+</script>
