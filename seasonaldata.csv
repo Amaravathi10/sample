@@ -1,0 +1,496 @@
+District,Season,Crop,Category,Variety,Typical_Area
+Adilabad,Rabi,Wheat,Cereal,HD 2967,Major
+Adilabad,Rabi,Green Gram,Pulse,KDM 1,Medium
+Adilabad,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Adilabad,Rabi,Groundnut,Oilseed,TMV 2,Major
+Adilabad,Rabi,Onion,Vegetable,Nasik,Minor
+Adilabad,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Adilabad,Kharif,Maize,Cereal,HM-5,Medium
+Adilabad,Kharif,Jowar,Cereal,M35,Medium
+Adilabad,Kharif,Cotton,Fiber,BT-4,Major
+Adilabad,Kharif,Castor,Oilseed,Castor-95,Minor
+Adilabad,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Adilabad,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Adilabad,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Adilabad,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Adilabad,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Bhadradri Kothagudem,Rabi,Wheat,Cereal,HD 2967,Major
+Bhadradri Kothagudem,Rabi,Green Gram,Pulse,KDM 1,Medium
+Bhadradri Kothagudem,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Bhadradri Kothagudem,Rabi,Groundnut,Oilseed,TMV 2,Major
+Bhadradri Kothagudem,Rabi,Onion,Vegetable,Nasik,Minor
+Bhadradri Kothagudem,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Bhadradri Kothagudem,Kharif,Maize,Cereal,HM-5,Medium
+Bhadradri Kothagudem,Kharif,Jowar,Cereal,M35,Medium
+Bhadradri Kothagudem,Kharif,Cotton,Fiber,BT-4,Major
+Bhadradri Kothagudem,Kharif,Castor,Oilseed,Castor-95,Minor
+Bhadradri Kothagudem,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Bhadradri Kothagudem,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Bhadradri Kothagudem,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Bhadradri Kothagudem,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Bhadradri Kothagudem,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Hyderabad,Rabi,Wheat,Cereal,HD 2967,Major
+Hyderabad,Rabi,Green Gram,Pulse,KDM 1,Medium
+Hyderabad,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Hyderabad,Rabi,Groundnut,Oilseed,TMV 2,Major
+Hyderabad,Rabi,Onion,Vegetable,Nasik,Minor
+Hyderabad,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Hyderabad,Kharif,Maize,Cereal,HM-5,Medium
+Hyderabad,Kharif,Jowar,Cereal,M35,Medium
+Hyderabad,Kharif,Cotton,Fiber,BT-4,Major
+Hyderabad,Kharif,Castor,Oilseed,Castor-95,Minor
+Hyderabad,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Hyderabad,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Hyderabad,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Hyderabad,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Hyderabad,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Jagtial,Rabi,Wheat,Cereal,HD 2967,Major
+Jagtial,Rabi,Green Gram,Pulse,KDM 1,Medium
+Jagtial,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Jagtial,Rabi,Groundnut,Oilseed,TMV 2,Major
+Jagtial,Rabi,Onion,Vegetable,Nasik,Minor
+Jagtial,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Jagtial,Kharif,Maize,Cereal,HM-5,Medium
+Jagtial,Kharif,Jowar,Cereal,M35,Medium
+Jagtial,Kharif,Cotton,Fiber,BT-4,Major
+Jagtial,Kharif,Castor,Oilseed,Castor-95,Minor
+Jagtial,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Jagtial,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Jagtial,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Jagtial,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Jagtial,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Jangaon,Rabi,Wheat,Cereal,HD 2967,Major
+Jangaon,Rabi,Green Gram,Pulse,KDM 1,Medium
+Jangaon,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Jangaon,Rabi,Groundnut,Oilseed,TMV 2,Major
+Jangaon,Rabi,Onion,Vegetable,Nasik,Minor
+Jangaon,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Jangaon,Kharif,Maize,Cereal,HM-5,Medium
+Jangaon,Kharif,Jowar,Cereal,M35,Medium
+Jangaon,Kharif,Cotton,Fiber,BT-4,Major
+Jangaon,Kharif,Castor,Oilseed,Castor-95,Minor
+Jangaon,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Jangaon,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Jangaon,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Jangaon,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Jangaon,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Jayashankar Bhupalpally,Rabi,Wheat,Cereal,HD 2967,Major
+Jayashankar Bhupalpally,Rabi,Green Gram,Pulse,KDM 1,Medium
+Jayashankar Bhupalpally,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Jayashankar Bhupalpally,Rabi,Groundnut,Oilseed,TMV 2,Major
+Jayashankar Bhupalpally,Rabi,Onion,Vegetable,Nasik,Minor
+Jayashankar Bhupalpally,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Jayashankar Bhupalpally,Kharif,Maize,Cereal,HM-5,Medium
+Jayashankar Bhupalpally,Kharif,Jowar,Cereal,M35,Medium
+Jayashankar Bhupalpally,Kharif,Cotton,Fiber,BT-4,Major
+Jayashankar Bhupalpally,Kharif,Castor,Oilseed,Castor-95,Minor
+Jayashankar Bhupalpally,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Jayashankar Bhupalpally,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Jayashankar Bhupalpally,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Jayashankar Bhupalpally,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Jayashankar Bhupalpally,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Jogulamba Gadwal,Rabi,Wheat,Cereal,HD 2967,Major
+Jogulamba Gadwal,Rabi,Green Gram,Pulse,KDM 1,Medium
+Jogulamba Gadwal,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Jogulamba Gadwal,Rabi,Groundnut,Oilseed,TMV 2,Major
+Jogulamba Gadwal,Rabi,Onion,Vegetable,Nasik,Minor
+Jogulamba Gadwal,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Jogulamba Gadwal,Kharif,Maize,Cereal,HM-5,Medium
+Jogulamba Gadwal,Kharif,Jowar,Cereal,M35,Medium
+Jogulamba Gadwal,Kharif,Cotton,Fiber,BT-4,Major
+Jogulamba Gadwal,Kharif,Castor,Oilseed,Castor-95,Minor
+Jogulamba Gadwal,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Jogulamba Gadwal,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Jogulamba Gadwal,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Jogulamba Gadwal,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Jogulamba Gadwal,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Kamareddy,Rabi,Wheat,Cereal,HD 2967,Major
+Kamareddy,Rabi,Green Gram,Pulse,KDM 1,Medium
+Kamareddy,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Kamareddy,Rabi,Groundnut,Oilseed,TMV 2,Major
+Kamareddy,Rabi,Onion,Vegetable,Nasik,Minor
+Kamareddy,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Kamareddy,Kharif,Maize,Cereal,HM-5,Medium
+Kamareddy,Kharif,Jowar,Cereal,M35,Medium
+Kamareddy,Kharif,Cotton,Fiber,BT-4,Major
+Kamareddy,Kharif,Castor,Oilseed,Castor-95,Minor
+Kamareddy,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Kamareddy,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Kamareddy,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Kamareddy,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Kamareddy,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Karimnagar,Rabi,Wheat,Cereal,HD 2967,Major
+Karimnagar,Rabi,Green Gram,Pulse,KDM 1,Medium
+Karimnagar,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Karimnagar,Rabi,Groundnut,Oilseed,TMV 2,Major
+Karimnagar,Rabi,Onion,Vegetable,Nasik,Minor
+Karimnagar,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Karimnagar,Kharif,Maize,Cereal,HM-5,Medium
+Karimnagar,Kharif,Jowar,Cereal,M35,Medium
+Karimnagar,Kharif,Cotton,Fiber,BT-4,Major
+Karimnagar,Kharif,Castor,Oilseed,Castor-95,Minor
+Karimnagar,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Karimnagar,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Karimnagar,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Karimnagar,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Karimnagar,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Khammam,Rabi,Wheat,Cereal,HD 2967,Major
+Khammam,Rabi,Green Gram,Pulse,KDM 1,Medium
+Khammam,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Khammam,Rabi,Groundnut,Oilseed,TMV 2,Major
+Khammam,Rabi,Onion,Vegetable,Nasik,Minor
+Khammam,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Khammam,Kharif,Maize,Cereal,HM-5,Medium
+Khammam,Kharif,Jowar,Cereal,M35,Medium
+Khammam,Kharif,Cotton,Fiber,BT-4,Major
+Khammam,Kharif,Castor,Oilseed,Castor-95,Minor
+Khammam,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Khammam,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Khammam,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Khammam,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Khammam,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Komaram Bheem,Rabi,Wheat,Cereal,HD 2967,Major
+Komaram Bheem,Rabi,Green Gram,Pulse,KDM 1,Medium
+Komaram Bheem,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Komaram Bheem,Rabi,Groundnut,Oilseed,TMV 2,Major
+Komaram Bheem,Rabi,Onion,Vegetable,Nasik,Minor
+Komaram Bheem,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Komaram Bheem,Kharif,Maize,Cereal,HM-5,Medium
+Komaram Bheem,Kharif,Jowar,Cereal,M35,Medium
+Komaram Bheem,Kharif,Cotton,Fiber,BT-4,Major
+Komaram Bheem,Kharif,Castor,Oilseed,Castor-95,Minor
+Komaram Bheem,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Komaram Bheem,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Komaram Bheem,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Komaram Bheem,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Komaram Bheem,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Mahabubabad,Rabi,Wheat,Cereal,HD 2967,Major
+Mahabubabad,Rabi,Green Gram,Pulse,KDM 1,Medium
+Mahabubabad,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Mahabubabad,Rabi,Groundnut,Oilseed,TMV 2,Major
+Mahabubabad,Rabi,Onion,Vegetable,Nasik,Minor
+Mahabubabad,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Mahabubabad,Kharif,Maize,Cereal,HM-5,Medium
+Mahabubabad,Kharif,Jowar,Cereal,M35,Medium
+Mahabubabad,Kharif,Cotton,Fiber,BT-4,Major
+Mahabubabad,Kharif,Castor,Oilseed,Castor-95,Minor
+Mahabubabad,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Mahabubabad,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Mahabubabad,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Mahabubabad,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Mahabubabad,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Mahabubnagar,Rabi,Wheat,Cereal,HD 2967,Major
+Mahabubnagar,Rabi,Green Gram,Pulse,KDM 1,Medium
+Mahabubnagar,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Mahabubnagar,Rabi,Groundnut,Oilseed,TMV 2,Major
+Mahabubnagar,Rabi,Onion,Vegetable,Nasik,Minor
+Mahabubnagar,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Mahabubnagar,Kharif,Maize,Cereal,HM-5,Medium
+Mahabubnagar,Kharif,Jowar,Cereal,M35,Medium
+Mahabubnagar,Kharif,Cotton,Fiber,BT-4,Major
+Mahabubnagar,Kharif,Castor,Oilseed,Castor-95,Minor
+Mahabubnagar,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Mahabubnagar,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Mahabubnagar,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Mahabubnagar,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Mahabubnagar,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Mancherial,Rabi,Wheat,Cereal,HD 2967,Major
+Mancherial,Rabi,Green Gram,Pulse,KDM 1,Medium
+Mancherial,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Mancherial,Rabi,Groundnut,Oilseed,TMV 2,Major
+Mancherial,Rabi,Onion,Vegetable,Nasik,Minor
+Mancherial,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Mancherial,Kharif,Maize,Cereal,HM-5,Medium
+Mancherial,Kharif,Jowar,Cereal,M35,Medium
+Mancherial,Kharif,Cotton,Fiber,BT-4,Major
+Mancherial,Kharif,Castor,Oilseed,Castor-95,Minor
+Mancherial,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Mancherial,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Mancherial,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Mancherial,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Mancherial,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Medak,Rabi,Wheat,Cereal,HD 2967,Major
+Medak,Rabi,Green Gram,Pulse,KDM 1,Medium
+Medak,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Medak,Rabi,Groundnut,Oilseed,TMV 2,Major
+Medak,Rabi,Onion,Vegetable,Nasik,Minor
+Medak,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Medak,Kharif,Maize,Cereal,HM-5,Medium
+Medak,Kharif,Jowar,Cereal,M35,Medium
+Medak,Kharif,Cotton,Fiber,BT-4,Major
+Medak,Kharif,Castor,Oilseed,Castor-95,Minor
+Medak,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Medak,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Medak,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Medak,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Medak,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Medchal,Rabi,Wheat,Cereal,HD 2967,Major
+Medchal,Rabi,Green Gram,Pulse,KDM 1,Medium
+Medchal,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Medchal,Rabi,Groundnut,Oilseed,TMV 2,Major
+Medchal,Rabi,Onion,Vegetable,Nasik,Minor
+Medchal,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Medchal,Kharif,Maize,Cereal,HM-5,Medium
+Medchal,Kharif,Jowar,Cereal,M35,Medium
+Medchal,Kharif,Cotton,Fiber,BT-4,Major
+Medchal,Kharif,Castor,Oilseed,Castor-95,Minor
+Medchal,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Medchal,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Medchal,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Medchal,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Medchal,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Malkajgiri,Rabi,Wheat,Cereal,HD 2967,Major
+Malkajgiri,Rabi,Green Gram,Pulse,KDM 1,Medium
+Malkajgiri,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Malkajgiri,Rabi,Groundnut,Oilseed,TMV 2,Major
+Malkajgiri,Rabi,Onion,Vegetable,Nasik,Minor
+Malkajgiri,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Malkajgiri,Kharif,Maize,Cereal,HM-5,Medium
+Malkajgiri,Kharif,Jowar,Cereal,M35,Medium
+Malkajgiri,Kharif,Cotton,Fiber,BT-4,Major
+Malkajgiri,Kharif,Castor,Oilseed,Castor-95,Minor
+Malkajgiri,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Malkajgiri,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Malkajgiri,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Malkajgiri,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Malkajgiri,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Mulugu,Rabi,Wheat,Cereal,HD 2967,Major
+Mulugu,Rabi,Green Gram,Pulse,KDM 1,Medium
+Mulugu,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Mulugu,Rabi,Groundnut,Oilseed,TMV 2,Major
+Mulugu,Rabi,Onion,Vegetable,Nasik,Minor
+Mulugu,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Mulugu,Kharif,Maize,Cereal,HM-5,Medium
+Mulugu,Kharif,Jowar,Cereal,M35,Medium
+Mulugu,Kharif,Cotton,Fiber,BT-4,Major
+Mulugu,Kharif,Castor,Oilseed,Castor-95,Minor
+Mulugu,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Mulugu,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Mulugu,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Mulugu,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Mulugu,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Nagarkurnool,Rabi,Wheat,Cereal,HD 2967,Major
+Nagarkurnool,Rabi,Green Gram,Pulse,KDM 1,Medium
+Nagarkurnool,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Nagarkurnool,Rabi,Groundnut,Oilseed,TMV 2,Major
+Nagarkurnool,Rabi,Onion,Vegetable,Nasik,Minor
+Nagarkurnool,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Nagarkurnool,Kharif,Maize,Cereal,HM-5,Medium
+Nagarkurnool,Kharif,Jowar,Cereal,M35,Medium
+Nagarkurnool,Kharif,Cotton,Fiber,BT-4,Major
+Nagarkurnool,Kharif,Castor,Oilseed,Castor-95,Minor
+Nagarkurnool,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Nagarkurnool,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Nagarkurnool,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Nagarkurnool,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Nagarkurnool,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Nalgonda,Rabi,Wheat,Cereal,HD 2967,Major
+Nalgonda,Rabi,Green Gram,Pulse,KDM 1,Medium
+Nalgonda,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Nalgonda,Rabi,Groundnut,Oilseed,TMV 2,Major
+Nalgonda,Rabi,Onion,Vegetable,Nasik,Minor
+Nalgonda,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Nalgonda,Kharif,Maize,Cereal,HM-5,Medium
+Nalgonda,Kharif,Jowar,Cereal,M35,Medium
+Nalgonda,Kharif,Cotton,Fiber,BT-4,Major
+Nalgonda,Kharif,Castor,Oilseed,Castor-95,Minor
+Nalgonda,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Nalgonda,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Nalgonda,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Nalgonda,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Nalgonda,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Nirmal,Rabi,Wheat,Cereal,HD 2967,Major
+Nirmal,Rabi,Green Gram,Pulse,KDM 1,Medium
+Nirmal,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Nirmal,Rabi,Groundnut,Oilseed,TMV 2,Major
+Nirmal,Rabi,Onion,Vegetable,Nasik,Minor
+Nirmal,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Nirmal,Kharif,Maize,Cereal,HM-5,Medium
+Nirmal,Kharif,Jowar,Cereal,M35,Medium
+Nirmal,Kharif,Cotton,Fiber,BT-4,Major
+Nirmal,Kharif,Castor,Oilseed,Castor-95,Minor
+Nirmal,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Nirmal,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Nirmal,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Nirmal,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Nirmal,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Nizamabad,Rabi,Wheat,Cereal,HD 2967,Major
+Nizamabad,Rabi,Green Gram,Pulse,KDM 1,Medium
+Nizamabad,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Nizamabad,Rabi,Groundnut,Oilseed,TMV 2,Major
+Nizamabad,Rabi,Onion,Vegetable,Nasik,Minor
+Nizamabad,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Nizamabad,Kharif,Maize,Cereal,HM-5,Medium
+Nizamabad,Kharif,Jowar,Cereal,M35,Medium
+Nizamabad,Kharif,Cotton,Fiber,BT-4,Major
+Nizamabad,Kharif,Castor,Oilseed,Castor-95,Minor
+Nizamabad,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Nizamabad,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Nizamabad,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Nizamabad,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Nizamabad,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Peddapalli,Rabi,Wheat,Cereal,HD 2967,Major
+Peddapalli,Rabi,Green Gram,Pulse,KDM 1,Medium
+Peddapalli,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Peddapalli,Rabi,Groundnut,Oilseed,TMV 2,Major
+Peddapalli,Rabi,Onion,Vegetable,Nasik,Minor
+Peddapalli,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Peddapalli,Kharif,Maize,Cereal,HM-5,Medium
+Peddapalli,Kharif,Jowar,Cereal,M35,Medium
+Peddapalli,Kharif,Cotton,Fiber,BT-4,Major
+Peddapalli,Kharif,Castor,Oilseed,Castor-95,Minor
+Peddapalli,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Peddapalli,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Peddapalli,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Peddapalli,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Peddapalli,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Rajanna Sircilla,Rabi,Wheat,Cereal,HD 2967,Major
+Rajanna Sircilla,Rabi,Green Gram,Pulse,KDM 1,Medium
+Rajanna Sircilla,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Rajanna Sircilla,Rabi,Groundnut,Oilseed,TMV 2,Major
+Rajanna Sircilla,Rabi,Onion,Vegetable,Nasik,Minor
+Rajanna Sircilla,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Rajanna Sircilla,Kharif,Maize,Cereal,HM-5,Medium
+Rajanna Sircilla,Kharif,Jowar,Cereal,M35,Medium
+Rajanna Sircilla,Kharif,Cotton,Fiber,BT-4,Major
+Rajanna Sircilla,Kharif,Castor,Oilseed,Castor-95,Minor
+Rajanna Sircilla,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Rajanna Sircilla,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Rajanna Sircilla,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Rajanna Sircilla,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Rajanna Sircilla,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Ranga Reddy,Rabi,Wheat,Cereal,HD 2967,Major
+Ranga Reddy,Rabi,Green Gram,Pulse,KDM 1,Medium
+Ranga Reddy,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Ranga Reddy,Rabi,Groundnut,Oilseed,TMV 2,Major
+Ranga Reddy,Rabi,Onion,Vegetable,Nasik,Minor
+Ranga Reddy,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Ranga Reddy,Kharif,Maize,Cereal,HM-5,Medium
+Ranga Reddy,Kharif,Jowar,Cereal,M35,Medium
+Ranga Reddy,Kharif,Cotton,Fiber,BT-4,Major
+Ranga Reddy,Kharif,Castor,Oilseed,Castor-95,Minor
+Ranga Reddy,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Ranga Reddy,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Ranga Reddy,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Ranga Reddy,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Ranga Reddy,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Sangareddy,Rabi,Wheat,Cereal,HD 2967,Major
+Sangareddy,Rabi,Green Gram,Pulse,KDM 1,Medium
+Sangareddy,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Sangareddy,Rabi,Groundnut,Oilseed,TMV 2,Major
+Sangareddy,Rabi,Onion,Vegetable,Nasik,Minor
+Sangareddy,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Sangareddy,Kharif,Maize,Cereal,HM-5,Medium
+Sangareddy,Kharif,Jowar,Cereal,M35,Medium
+Sangareddy,Kharif,Cotton,Fiber,BT-4,Major
+Sangareddy,Kharif,Castor,Oilseed,Castor-95,Minor
+Sangareddy,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Sangareddy,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Sangareddy,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Sangareddy,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Sangareddy,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Siddipet,Rabi,Wheat,Cereal,HD 2967,Major
+Siddipet,Rabi,Green Gram,Pulse,KDM 1,Medium
+Siddipet,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Siddipet,Rabi,Groundnut,Oilseed,TMV 2,Major
+Siddipet,Rabi,Onion,Vegetable,Nasik,Minor
+Siddipet,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Siddipet,Kharif,Maize,Cereal,HM-5,Medium
+Siddipet,Kharif,Jowar,Cereal,M35,Medium
+Siddipet,Kharif,Cotton,Fiber,BT-4,Major
+Siddipet,Kharif,Castor,Oilseed,Castor-95,Minor
+Siddipet,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Siddipet,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Siddipet,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Siddipet,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Siddipet,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Suryapet,Rabi,Wheat,Cereal,HD 2967,Major
+Suryapet,Rabi,Green Gram,Pulse,KDM 1,Medium
+Suryapet,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Suryapet,Rabi,Groundnut,Oilseed,TMV 2,Major
+Suryapet,Rabi,Onion,Vegetable,Nasik,Minor
+Suryapet,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Suryapet,Kharif,Maize,Cereal,HM-5,Medium
+Suryapet,Kharif,Jowar,Cereal,M35,Medium
+Suryapet,Kharif,Cotton,Fiber,BT-4,Major
+Suryapet,Kharif,Castor,Oilseed,Castor-95,Minor
+Suryapet,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Suryapet,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Suryapet,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Suryapet,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Suryapet,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Vikarabad,Rabi,Wheat,Cereal,HD 2967,Major
+Vikarabad,Rabi,Green Gram,Pulse,KDM 1,Medium
+Vikarabad,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Vikarabad,Rabi,Groundnut,Oilseed,TMV 2,Major
+Vikarabad,Rabi,Onion,Vegetable,Nasik,Minor
+Vikarabad,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Vikarabad,Kharif,Maize,Cereal,HM-5,Medium
+Vikarabad,Kharif,Jowar,Cereal,M35,Medium
+Vikarabad,Kharif,Cotton,Fiber,BT-4,Major
+Vikarabad,Kharif,Castor,Oilseed,Castor-95,Minor
+Vikarabad,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Vikarabad,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Vikarabad,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Vikarabad,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Vikarabad,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Wanaparthy,Rabi,Wheat,Cereal,HD 2967,Major
+Wanaparthy,Rabi,Green Gram,Pulse,KDM 1,Medium
+Wanaparthy,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Wanaparthy,Rabi,Groundnut,Oilseed,TMV 2,Major
+Wanaparthy,Rabi,Onion,Vegetable,Nasik,Minor
+Wanaparthy,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Wanaparthy,Kharif,Maize,Cereal,HM-5,Medium
+Wanaparthy,Kharif,Jowar,Cereal,M35,Medium
+Wanaparthy,Kharif,Cotton,Fiber,BT-4,Major
+Wanaparthy,Kharif,Castor,Oilseed,Castor-95,Minor
+Wanaparthy,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Wanaparthy,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Wanaparthy,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Wanaparthy,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Wanaparthy,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Warangal Rural,Rabi,Wheat,Cereal,HD 2967,Major
+Warangal Rural,Rabi,Green Gram,Pulse,KDM 1,Medium
+Warangal Rural,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Warangal Rural,Rabi,Groundnut,Oilseed,TMV 2,Major
+Warangal Rural,Rabi,Onion,Vegetable,Nasik,Minor
+Warangal Rural,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Warangal Rural,Kharif,Maize,Cereal,HM-5,Medium
+Warangal Rural,Kharif,Jowar,Cereal,M35,Medium
+Warangal Rural,Kharif,Cotton,Fiber,BT-4,Major
+Warangal Rural,Kharif,Castor,Oilseed,Castor-95,Minor
+Warangal Rural,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Warangal Rural,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Warangal Rural,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Warangal Rural,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Warangal Rural,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Warangal Urban,Rabi,Wheat,Cereal,HD 2967,Major
+Warangal Urban,Rabi,Green Gram,Pulse,KDM 1,Medium
+Warangal Urban,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Warangal Urban,Rabi,Groundnut,Oilseed,TMV 2,Major
+Warangal Urban,Rabi,Onion,Vegetable,Nasik,Minor
+Warangal Urban,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Warangal Urban,Kharif,Maize,Cereal,HM-5,Medium
+Warangal Urban,Kharif,Jowar,Cereal,M35,Medium
+Warangal Urban,Kharif,Cotton,Fiber,BT-4,Major
+Warangal Urban,Kharif,Castor,Oilseed,Castor-95,Minor
+Warangal Urban,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Warangal Urban,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Warangal Urban,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Warangal Urban,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Warangal Urban,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
+Yadadri Bhuvanagiri,Rabi,Wheat,Cereal,HD 2967,Major
+Yadadri Bhuvanagiri,Rabi,Green Gram,Pulse,KDM 1,Medium
+Yadadri Bhuvanagiri,Rabi,Mustard,Oilseed,Pusa Bold,Medium
+Yadadri Bhuvanagiri,Rabi,Groundnut,Oilseed,TMV 2,Major
+Yadadri Bhuvanagiri,Rabi,Onion,Vegetable,Nasik,Minor
+Yadadri Bhuvanagiri,Kharif,Paddy (Sonamasuri),Cereal,Sonamasuri,Major
+Yadadri Bhuvanagiri,Kharif,Maize,Cereal,HM-5,Medium
+Yadadri Bhuvanagiri,Kharif,Jowar,Cereal,M35,Medium
+Yadadri Bhuvanagiri,Kharif,Cotton,Fiber,BT-4,Major
+Yadadri Bhuvanagiri,Kharif,Castor,Oilseed,Castor-95,Minor
+Yadadri Bhuvanagiri,Zaid,Tomato,Vegetable,Pusa Ruby,Medium
+Yadadri Bhuvanagiri,Zaid,Cucumber,Vegetable,Pusa Uday,Medium
+Yadadri Bhuvanagiri,Zaid,Bitter Gourd,Vegetable,BHU 01,Minor
+Yadadri Bhuvanagiri,Zaid,Capsicum,Vegetable,Pusa Sweet,Minor
+Yadadri Bhuvanagiri,Zaid,Pumpkin,Vegetable,Pusa Pumpkin,Minor
